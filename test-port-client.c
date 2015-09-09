@@ -2,6 +2,7 @@
 *	This is a port-read client.  It will accept any IP address and port
 *	number on the commandline, connect to the server, send the message
 *	(if any defined), read the reply, and close.
+* 
 **************************************************************************/
 #include <stdarg.h>
 #include <stdio.h>
