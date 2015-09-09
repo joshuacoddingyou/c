@@ -1,6 +1,7 @@
 /**************************************************************************
 *   This is a simple client socket reader.  It opens a socket, connects
 *   to a server, reads the message, and closes.
+* 
 **************************************************************************/
 #include <stdio.h>
 #include <string.h>
