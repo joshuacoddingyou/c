@@ -8,6 +8,7 @@
 /*** This program can be used for both ends of the connection.  The peer-  ***/
 /*** end that has a message is assumed to be the initiator.  If you run    ***/
 /*** both peers without any message, you will get a deadlock.              ***/
+/*                                                                         ***/
 /*****************************************************************************/
 
 #include <stdlib.h>
