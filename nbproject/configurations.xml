@@ -11,9 +11,26 @@
       <itemPath>connected-peer.c</itemPath>
       <itemPath>connectionless-receiver.c</itemPath>
       <itemPath>connectionless-sender.c</itemPath>
+      <itemPath>echo-process.c</itemPath>
+      <itemPath>echo-thread.c</itemPath>
+      <itemPath>exec-server.c</itemPath>
+      <itemPath>html-ls-server.c</itemPath>
+      <itemPath>html-ls-server2.c</itemPath>
+      <itemPath>http-client.c</itemPath>
+      <itemPath>http-dir.c</itemPath>
+      <itemPath>ls-server.c</itemPath>
+      <itemPath>parent-child.c</itemPath>
+      <itemPath>serverls.c</itemPath>
       <itemPath>simple-client.c</itemPath>
+      <itemPath>simple-server.c</itemPath>
       <itemPath>snooper.c</itemPath>
-      <itemPath>test-port-client.c.c</itemPath>
+      <itemPath>test-port-client.c</itemPath>
+      <itemPath>thread-mutex.c</itemPath>
+      <itemPath>trivial-server.c</itemPath>
+      <itemPath>ttcp-client.c</itemPath>
+      <itemPath>ttcp-server.c</itemPath>
+      <itemPath>udp-reconnect.c</itemPath>
+      <itemPath>udp-server.c</itemPath>
     </logicalFolder>
     <logicalFolder name="ResourceFiles"
                    displayName="Arquivos de Recurso"
@@ -47,11 +64,45 @@
       </item>
       <item path="connectionless-sender.c" ex="false" tool="0" flavor2="0">
       </item>
+      <item path="echo-process.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="echo-thread.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="exec-server.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="html-ls-server.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="html-ls-server2.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="http-client.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="http-dir.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="ls-server.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="parent-child.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="serverls.c" ex="false" tool="0" flavor2="0">
+      </item>
       <item path="simple-client.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="simple-server.c" ex="false" tool="0" flavor2="0">
       </item>
       <item path="snooper.c" ex="false" tool="0" flavor2="0">
       </item>
-      <item path="test-port-client.c.c" ex="false" tool="0" flavor2="0">
+      <item path="test-port-client.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="thread-mutex.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="trivial-server.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="ttcp-client.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="ttcp-server.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="udp-reconnect.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="udp-server.c" ex="false" tool="0" flavor2="0">
       </item>
     </conf>
     <conf name="Release" type="1">
@@ -80,11 +131,45 @@
       </item>
       <item path="connectionless-sender.c" ex="false" tool="0" flavor2="0">
       </item>
+      <item path="echo-process.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="echo-thread.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="exec-server.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="html-ls-server.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="html-ls-server2.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="http-client.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="http-dir.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="ls-server.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="parent-child.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="serverls.c" ex="false" tool="0" flavor2="0">
+      </item>
       <item path="simple-client.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="simple-server.c" ex="false" tool="0" flavor2="0">
       </item>
       <item path="snooper.c" ex="false" tool="0" flavor2="0">
       </item>
-      <item path="test-port-client.c.c" ex="false" tool="0" flavor2="0">
+      <item path="test-port-client.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="thread-mutex.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="trivial-server.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="ttcp-client.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="ttcp-server.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="udp-reconnect.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="udp-server.c" ex="false" tool="0" flavor2="0">
       </item>
     </conf>
   </confs>
