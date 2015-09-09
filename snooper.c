@@ -1,6 +1,7 @@
 /*****************************************************************************/
 /*** snooper.c                                                             ***/
-/***                                                                       ***/
+/***                
+ *                                                                         ***/
 /*** This program captures *all* packets that the network interface sees.  ***/
 /*** Be very careful with this tool, because you may see all lot of info.  ***/
 /*** Also, it uses the deprecated SOCK_PACKET socket type.  The newer and  ***/
